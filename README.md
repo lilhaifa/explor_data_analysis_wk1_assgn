@@ -119,3 +119,9 @@ The four plots that you will need to construct are shown below.
 --------------------------------------
 
 As required, 4 R scripts and 4 plots have been uploaded to this repository
+Instructions for use:
+a) The data file "household_power_consumption.txt" should be in the same path as the R scripts. 
+b) The data file name must be as above, its hard-coded in the code. Not good, but there it is. 
+c) The corresponding plot (plot.png, plot2.png, etc) will get created in the same path.
+
+Happy Reviewing !
